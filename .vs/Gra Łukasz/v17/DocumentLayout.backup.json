@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\assets\\enemies\\enemy2\\scripts\\rangeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\enemy2\\scripts\\rangeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\assets\\enemies\\enemy1\\scripts\\basicenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\enemy1\\scripts\\basicenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|c:\\users\\lukas\\desktop\\gra \u0142ukasz\\assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|c:\\users\\lukas\\desktop\\gra \u0142ukasz\\assets\\scripts\\backgroundfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\assets\\envinment\\spikes\\hurtspikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|solutionrelative:assets\\envinment\\spikes\\hurtspikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\assets\\demon\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|solutionrelative:assets\\demon\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\assets\\cat\\catfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|solutionrelative:assets\\cat\\catfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\assets\\demon\\scripts\\player controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|solutionrelative:assets\\demon\\scripts\\player controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\assets\\envinment\\hidden places\\enablehidden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBDC045-DD25-35F9-BDCD-3D5406318E43}|Assembly-CSharp.csproj|solutionrelative:assets\\envinment\\hidden places\\enablehidden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackgroundFollow.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Scripts\\BackgroundFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundFollow.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Scripts\\BackgroundFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:32:12.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Scripts\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManager.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Scripts\\SceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:49:09.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicEnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Enemies\\Enemy1\\Scripts\\BasicEnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Enemy1\\Scripts\\BasicEnemyController.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Enemies\\Enemy1\\Scripts\\BasicEnemyController.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Enemy1\\Scripts\\BasicEnemyController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:51:57.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RangeEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Enemies\\Enemy2\\Scripts\\RangeEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Enemy2\\Scripts\\RangeEnemy.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Enemies\\Enemy2\\Scripts\\RangeEnemy.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Enemy2\\Scripts\\RangeEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:18:36.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnableHidden.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Envinment\\Hidden Places\\EnableHidden.cs",
+              "RelativeDocumentMoniker": "Assets\\Envinment\\Hidden Places\\EnableHidden.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Envinment\\Hidden Places\\EnableHidden.cs",
+              "RelativeToolTip": "Assets\\Envinment\\Hidden Places\\EnableHidden.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:27:17.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player Controller.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Demon\\Scripts\\Player Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Demon\\Scripts\\Player Controller.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Demon\\Scripts\\Player Controller.cs",
+              "RelativeToolTip": "Assets\\Demon\\Scripts\\Player Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:17:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatFollow.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Cat\\CatFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Cat\\CatFollow.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Cat\\CatFollow.cs",
+              "RelativeToolTip": "Assets\\Cat\\CatFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:54:12.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Demon\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Demon\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Demon\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Demon\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:07:29.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HurtSpikes.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Envinment\\Spikes\\HurtSpikes.cs",
+              "RelativeDocumentMoniker": "Assets\\Envinment\\Spikes\\HurtSpikes.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Gra \u0141ukasz\\Assets\\Envinment\\Spikes\\HurtSpikes.cs",
+              "RelativeToolTip": "Assets\\Envinment\\Spikes\\HurtSpikes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:53:34.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
