@@ -278,7 +278,7 @@ MonoBehaviour:
   knockbackDuration: 0.1
   lastFlipTime: 0.01
   flipCooldown: 0.2
-  detectionRange: 5
+  detectionRange: 5.07
   attackRange: 1
   chargeSpeed: 3
   attackCooldown: 2
